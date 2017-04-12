@@ -1,0 +1,117 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/Sirupsen/logrus",
+			"repository": "https://github.com/Sirupsen/logrus",
+			"revision": "10f801ebc38b33738c9d17d50860f484a0988ff5",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/braintree/manners",
+			"repository": "https://github.com/braintree/manners",
+			"revision": "82a8879fc5fd0381fa8b2d8033b19bf255252088",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/denisenkom/go-mssqldb",
+			"repository": "https://github.com/denisenkom/go-mssqldb",
+			"revision": "efb3002072bc69d12d92dfc70290ccfdaa5403cf",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-sql-driver/mysql",
+			"repository": "https://github.com/go-sql-driver/mysql",
+			"revision": "2e00b5cd70399450106cec6431c2e2ce3cae5034",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/golang/protobuf/proto",
+			"repository": "https://github.com/golang/protobuf",
+			"revision": "c9c7427a2a70d2eb3bafa0ab2dc163e45f143317",
+			"branch": "master",
+			"path": "/proto"
+		},
+		{
+			"importpath": "github.com/jinzhu/gorm",
+			"repository": "https://github.com/jinzhu/gorm",
+			"revision": "572d0a0ab1eb75410a2729e96239152d1da7a91f",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/jinzhu/inflection",
+			"repository": "https://github.com/jinzhu/inflection",
+			"revision": "1c35d901db3da928c72a72d8458480cc9ade058f",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/julienschmidt/httprouter",
+			"repository": "https://github.com/julienschmidt/httprouter",
+			"revision": "6f3f3919c8781ce5c0509c83fffc887a7830c938",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/lib/pq",
+			"repository": "https://github.com/lib/pq",
+			"revision": "472a0745531a17dbac346e828b4c60e73ddff30c",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/mattn/go-sqlite3",
+			"repository": "https://github.com/mattn/go-sqlite3",
+			"revision": "eac1dfa2a61ebccaa117538a5bb12044f6700cd0",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/onsi/gomega",
+			"repository": "https://github.com/onsi/gomega",
+			"revision": "4ac488ac94a6dfbd2f7e01cc3bea24e2efc40663",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/sirupsen/logrus",
+			"repository": "https://github.com/sirupsen/logrus",
+			"revision": "10f801ebc38b33738c9d17d50860f484a0988ff5",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/crypto/md4",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "459e26527287adbc2adcc5d0d49abff9a5f315a7",
+			"branch": "master",
+			"path": "/md4"
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "a6577fac2d73be281a500b310739095313165611",
+			"branch": "master",
+			"path": "/context"
+		},
+		{
+			"importpath": "gopkg.in/airbrake/gobrake.v2",
+			"repository": "https://gopkg.in/airbrake/gobrake.v2",
+			"revision": "668876711219e8b0206e2994bf0a59d889c775aa",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/gemnasium/logrus-airbrake-hook.v2",
+			"repository": "https://gopkg.in/gemnasium/logrus-airbrake-hook.v2",
+			"revision": "bfee1239d796830ca346767650cce5ba90d58c57",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/mgo.v2/internal/json",
+			"repository": "https://gopkg.in/mgo.v2",
+			"revision": "3f83fa5005286a7fe593b055f0d7771a7dce4655",
+			"branch": "v2",
+			"path": "/internal/json"
+		},
+		{
+			"importpath": "gopkg.in/yaml.v2",
+			"repository": "https://gopkg.in/yaml.v2",
+			"revision": "a3f3340b5840cee44f372bddb5880fcbc419b46a",
+			"branch": "v2"
+		}
+	]
+}
